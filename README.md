@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @masum-abid
-- 👀 I’m interested in Software Qaulity Assurance
-- 🌱 I’m currently learning Test Automation
-- 💞️ I’m looking to collaborate on software testing projects
+- 👀 I’m interested in Software Qaulity Assurance and Data Analytics
+- 🌱 I’m currently studying Health and Medical Data Analytics
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/mmabid/)
 
 <!---
